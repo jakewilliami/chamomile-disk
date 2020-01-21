@@ -1,6 +1,8 @@
-#MIT License
+<h1 align="center">
+  MIT License
+</h1>
 
-##Copyright (c) 2020, Jake William Ireland
+## Copyright (c) 2020, Jake William Ireland
 
 ---
 
