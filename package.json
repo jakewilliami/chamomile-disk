@@ -1,0 +1,21 @@
+{
+  "name": "chamomile-disk",
+  "version": "1.0.0",
+  "description": "An Electron application similar to show disk space in an intuitive and interactive manner.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/jakewilliami/chamomile-disk",
+  "keywords": [
+    "Electron",
+    "disk",
+    "storage",
+    "daisy"
+  ],
+  "author": "Jake William Ireland",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^7.1.9"
+  }
+}
