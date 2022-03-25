@@ -16,6 +16,6 @@
   "author": "Jake William Ireland",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^7.1.9"
+    "electron": "^13.6.6"
   }
 }
